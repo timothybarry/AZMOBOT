@@ -50,7 +50,7 @@ For this demo, the dataset will be simulated.
 # For now, the training script creates simulated data
 python 1_imitation_learning/train_imitation.py --num-replays 1000 --epochs 50
 ```
-
+ 
 Step 2: Watch training progress
 -------------------------------
 ```bash
