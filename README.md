@@ -94,7 +94,7 @@ python scripts/run_bot.py --bot simple
 python 1_imitation_learning/train_imitation.py --epochs 50
 ```
 
-### Train RL Agent
+### Train RL Agent 
 ```bash
 python 2_reinforcement_learning/train_rl.py --episodes 10000
 ```
