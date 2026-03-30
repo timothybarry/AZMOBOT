@@ -1,5 +1,5 @@
 """
-Main Bot Runner
+Main Bot Runner 
 Run your trained bot in StarCraft 2
 """
 
